@@ -1,0 +1,38 @@
+@media screen and (max-width: 768px) {
+
+  .car-img {
+    max-block-size: 100%!important;
+    aspect-ratio: 0.7!important;
+    object-fit: contain!important;
+    width: border-box;
+    border-radius: 10px;
+    transform: scale(1.2);
+    margin: auto!important;
+    position: absolute;
+    bottom:0!important;
+    left: 0;
+  }
+
+  .scale {
+    width: 100% !important;
+    text-align: center;
+background-image: linear-gradient(to right top, #c7ddf9, #d1e2f8, #dbe6f6, #e5ebf5, #eef0f3);
+  }
+
+}
+
+.car-img {
+background-image: linear-gradient(to right top, #c7ddf9, #d1e2f8, #dbe6f6, #e5ebf5, #eef0f3);
+  max-block-size: 80%!important;
+  aspect-ratio: 0.9;
+
+
+  object-fit: contain !important;
+  /* transform: scale(0.9); */
+  overflow: hidden;
+  position: relative;
+    bottom: 0px !important;
+    left: 0;
+
+}
+/*  */

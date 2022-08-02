@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 9px 15px;
+
+  position:static;
+  bottom: 0px;
+  width: 100%;
+  height: 40px;
+  /* Height of the footer */
+  /* background: #6cf; */
+background-image: linear-gradient(to right top, #c7ddf9, #d1e2f8, #dbe6f6, #e5ebf5, #eef0f3);
+}
+
+p, span {
+  font-size: 0.7rem;
+}

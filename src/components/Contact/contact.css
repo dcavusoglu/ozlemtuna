@@ -1,0 +1,12 @@
+.contact{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.contact a {
+  text-decoration: none;
+  color: #042940;
+  font-weight: bold;
+}
